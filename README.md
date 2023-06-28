@@ -1,5 +1,5 @@
 # De-identification
-
+코드 사용 시, 출처 표기 바랍니다.
 
 - 구글 mediapipe 라이브러리를 사용하여 다음 face mesh 좌표 추출 <br><br/>
   pyton 3.9.0 / mediapipe 0.8.11 / openCV 4.6.0 <br><br/><br><br/>
